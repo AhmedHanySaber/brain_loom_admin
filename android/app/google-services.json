@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "599859706019",
+    "firebase_url": "https://wanas-69fec-default-rtdb.firebaseio.com",
+    "project_id": "wanas-69fec",
+    "storage_bucket": "wanas-69fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599859706019:android:8597db1c526c1d9f212716",
+        "android_client_info": {
+          "package_name": "com.example.brain_loom_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599859706019-rko1t3jeat0i94kju7r74g34tsqb9bg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCouHmqw81UjspNKqsAWrDyitWyQSxKT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599859706019-rko1t3jeat0i94kju7r74g34tsqb9bg1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599859706019-2iurh90hr79cel0hnh5jghj3ukg7rk11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wanas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599859706019:android:454cac374dbb2c3a212716",
+        "android_client_info": {
+          "package_name": "com.example.wanas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599859706019-guet8t7cv44f61bp3r9hsntodkfbr6ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wanas",
+            "certificate_hash": "575456cdc042588fa9c62b08272c088b532aa5d9"
+          }
+        },
+        {
+          "client_id": "599859706019-rko1t3jeat0i94kju7r74g34tsqb9bg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCouHmqw81UjspNKqsAWrDyitWyQSxKT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599859706019-rko1t3jeat0i94kju7r74g34tsqb9bg1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599859706019-2iurh90hr79cel0hnh5jghj3ukg7rk11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wanas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599859706019:android:a4835bcd0a3988ee212716",
+        "android_client_info": {
+          "package_name": "com.example.wanas_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599859706019-rko1t3jeat0i94kju7r74g34tsqb9bg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCouHmqw81UjspNKqsAWrDyitWyQSxKT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599859706019-rko1t3jeat0i94kju7r74g34tsqb9bg1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599859706019-2iurh90hr79cel0hnh5jghj3ukg7rk11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wanas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

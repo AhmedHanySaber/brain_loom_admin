@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>599859706019-pdvhtg78pv2dfi1aal8h0q2fv8oeplsf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.599859706019-pdvhtg78pv2dfi1aal8h0q2fv8oeplsf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>599859706019-guet8t7cv44f61bp3r9hsntodkfbr6ng.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAKSQ0bgRUadz_9ilpAxGcTh0hPgTdjzYo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>599859706019</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.brainLoomAdmin.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>wanas-69fec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wanas-69fec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:599859706019:ios:1e67d1ce1d780b00212716</string>
+	<key>DATABASE_URL</key>
+	<string>https://wanas-69fec-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
